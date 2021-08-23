@@ -20,5 +20,4 @@ Dashboard Layout: The dashboard below shows the screenshot of actively running a
 ![Screen Shot 2021-08-23 at 10 42 06](https://user-images.githubusercontent.com/56788338/130451409-4ecbb084-3199-474e-96ae-3d4aaf32b610.png)
 
 Screen view of the application: 
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/pqsYuB1LNb0&ab_channel=M.SabbirRahman/0.jpg)].(http://www.youtube.com/watch?v=pqsYuB1LNb0&ab_channel=M.SabbirRahman)
+https://user-images.githubusercontent.com/56788338/130468709-575aa6ee-1f48-4701-8ae1-56fa5cdbec72.mp4
