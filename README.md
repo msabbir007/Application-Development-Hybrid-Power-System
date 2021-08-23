@@ -15,4 +15,10 @@ Programming Language:
 	HTML
 
 
-Dashboard Layout: The dashboard below shows the screenshot of actively running application containing battery, fuel tank and power consumption status.![image](https://user-images.githubusercontent.com/56788338/130451019-0123faea-1961-4428-bfac-c260902aab12.png)
+Dashboard Layout: The dashboard below shows the screenshot of actively running application containing battery, fuel tank and power consumption status.
+
+![Screen Shot 2021-08-23 at 10 42 06](https://user-images.githubusercontent.com/56788338/130451409-4ecbb084-3199-474e-96ae-3d4aaf32b610.png)
+
+Screen view of the application: 
+
+
