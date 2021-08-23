@@ -21,4 +21,4 @@ Dashboard Layout: The dashboard below shows the screenshot of actively running a
 
 Screen view of the application: 
 
-
+[![IMAGE ALT TEXT HERE](https://youtu.be/pqsYuB1LNb0.jpg)](https://youtu.be/pqsYuB1LNb0)
