@@ -1,0 +1,64 @@
+
+.data_loading{
+     background-color: rgb(21, 58, 58);
+     text-align: center;
+     padding-top: 20%;
+     vertical-align: middle;
+     font-size: 1rem;
+}
+
+
+.system_layout{
+    background-color: rgb(21, 58, 58);
+    text-align: center;
+    max-height: 40%;
+    max-width: 70%;
+    font-size: 1rem;
+    margin-left: 15%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+       
+}
+
+.system_status{
+    background-color: rgb(21, 58, 58);
+    max-height: 100%;
+    max-width: 100%;
+    font-size: 2rem;
+    border-radius : 2%;
+    border-style: solid groove;
+    padding: 0;
+    margin: 0;
+     
+}
+
+.donut_charts{
+  
+    height: 90%;
+    width: 100%;
+    display: flex; 
+}
+
+.chart_container_1{
+    height: 35%;
+    width: 35%;
+    margin-left: 7%;
+    font-size: 2rem;
+    padding: 0;
+}
+
+.chart_container_2{
+    height: 35%;
+    width: 35%;
+    margin-left: 15%;
+    font-size: 2rem;
+    padding: 0;
+}
+
+
+.finnwindText img {
+    height: 17px;
+    margin: 0;
+    padding: 0;
+}
+
