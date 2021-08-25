@@ -2,11 +2,11 @@
 
 Programming Language:
 
-	JavaScript (REACT Framework)
-	Use effect hooks.
-	Rest API
-	CSS
-	HTML
+* JavaScript (REACT Framework)
+   * Use effect hooks.
+*	Rest API
+*	CSS
+*	HTML
 
 https://user-images.githubusercontent.com/56788338/130468709-575aa6ee-1f48-4701-8ae1-56fa5cdbec72.mp4
 
